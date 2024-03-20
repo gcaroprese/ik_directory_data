@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ik\n"
+"X-Generator: Poedit 3.0\n"
+
+#: ik-directorio-datos/ik-directorio-datos.php:5
+msgid "Empresa: "
+msgstr "Company: "
+
+#: ik-directorio-datos/ik-directorio-datos.php:5
+msgid "No se encontraron datos de empresas que brinden el servicio que buscas."
+msgstr "No data was found for companies that provide the service you are looking for."
+
+#: ik-directorio-datos/ik-directorio-datos.php:5
+msgid "Completa los campos requeridos."
+msgstr "Complete the required fields."
+
+#: ik-directorio-datos/ik-directorio-datos.php:5
+msgid "Lo lamento. El límite de registros para este pueblo o ciudad ya fue alcanzado."
+msgstr "I'm sorry. The record limit for this town or city has already been reached."

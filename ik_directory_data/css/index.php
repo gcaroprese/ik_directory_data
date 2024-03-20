@@ -1,0 +1,7 @@
+<?pho
+
+/*
+Silence is great 
+*/
+
+?>
